@@ -3146,7 +3146,7 @@ dependencies = [
  "serde",
  "sha2",
  "tempfile",
- "thiserror 1.0.69",
+ "thiserror 2.0.19",
  "x25519-dalek",
  "zeroize",
 ]
@@ -3208,7 +3208,7 @@ dependencies = [
  "redb",
  "serde",
  "tempfile",
- "thiserror 1.0.69",
+ "thiserror 2.0.19",
  "zeroize",
 ]
 
